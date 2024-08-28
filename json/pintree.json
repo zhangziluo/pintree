@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1721050776567,
+    "addDate": 1699333489358,
     "title": "收藏夹栏",
     "children": [
       {
@@ -935,31 +935,10 @@
           },
           {
             "type": "link",
-            "addDate": 1721660409377,
-            "title": "15 个 GitHub 项目推荐：GitHub 上还有这些趣又好玩的项目 - 少数派",
-            "icon": "https://logo.clearbit.com/sspai.com",
-            "url": "https://sspai.com/post/53991"
-          },
-          {
-            "type": "link",
-            "addDate": 1721483360945,
-            "title": "iptv,来自世界各地的公开IPTV频道的集合,下载iptv的源码_GitHub_帮酷 --- GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/iptv-org/iptv"
-          },
-          {
-            "type": "link",
             "addDate": 1723170723666,
             "title": "GitHub - netnr/kms: KMS 激活服务，slmgr 命令激活 Windows 系统、Office",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/netnr/kms"
-          },
-          {
-            "type": "link",
-            "addDate": 1723784996070,
-            "title": "GitHub - LorenzCK/OnTopReplica: A real-time always-on-top “replica” of a window of your choice (on Windows).",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/LorenzCK/OnTopReplica"
           },
           {
             "type": "link",
@@ -970,31 +949,38 @@
           },
           {
             "type": "link",
-            "addDate": 1724253275085,
-            "title": "lllyasviel/style2paints: sketch + style = paints (TOG2018/SIGGRAPH2018ASIA)",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/lllyasviel/style2paints"
-          },
-          {
-            "type": "link",
-            "addDate": 1724307967291,
-            "title": "upscayl/upscayl：🆙 Upscayl - #1 适用于 Linux、MacOS 和 Windows 的免费开源 AI 图像升频器。 --- upscayl/upscayl: 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/upscayl/upscayl"
-          },
-          {
-            "type": "link",
-            "addDate": 1724389113270,
-            "title": "yasoob/intermediatePython --- yasoob/intermediatePython",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/yasoob/intermediatePython"
-          },
-          {
-            "type": "link",
             "addDate": 1724393309617,
             "title": "yangyangwithgnu/the_new_world_linux: the new world, linux",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/yangyangwithgnu/the_new_world_linux"
+          },
+          {
+            "type": "link",
+            "addDate": 1724424603701,
+            "title": "简介 - Python教程 - 廖雪峰的官方网站",
+            "icon": "https://logo.clearbit.com/liaoxuefeng.com",
+            "url": "https://liaoxuefeng.com/books/python/introduction/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724456535226,
+            "title": "《HelloGitHub 月刊》第 1 期 - HelloGitHub",
+            "icon": "https://logo.clearbit.com/hellogithub.com",
+            "url": "https://hellogithub.com/periodical/volume/1"
+          },
+          {
+            "type": "link",
+            "addDate": 1724657071435,
+            "title": "linux安装缺少的依赖_linux安装软件缺少依赖包-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/blongz/article/details/106922277"
+          },
+          {
+            "type": "link",
+            "addDate": 1724657171187,
+            "title": "apt-get install 连同诸多依赖包一并安装的指令_apt install 依赖包-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/guntangsanjing/article/details/127657224"
           }
         ]
       },
@@ -1126,22 +1112,23 @@
       },
       {
         "type": "link",
-        "addDate": 1724398430802,
-        "title": "KOReader - MobileRead Forums",
-        "icon": "https://logo.clearbit.com/www.mobileread.com",
-        "url": "https://www.mobileread.com/forums/forumdisplay.php?f=276"
+        "addDate": 1724426416092,
+        "title": "Python解释器 - Python教程 - 廖雪峰的官方网站",
+        "icon": "https://logo.clearbit.com/liaoxuefeng.com",
+        "url": "https://liaoxuefeng.com/books/python/install/interpreter/index.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1724729932645,
+        "title": "工作区 - Visual Studio Code",
+        "icon": "https://logo.clearbit.com/vscode.dev",
+        "url": "https://vscode.dev/?vscode-lang=zh-cn"
       }
     ]
   },
   {
     "type": "folder",
-    "addDate": 1721050776567,
-    "title": "其他收藏夹",
-    "children": []
-  },
-  {
-    "type": "folder",
-    "addDate": 1721050776567,
+    "addDate": 1699333489358,
     "title": "移动收藏夹",
     "children": [
       {
